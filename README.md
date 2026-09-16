@@ -1,9 +1,12 @@
-# Satchi99-pemrograman-komputer-5018241100
-pemrograman-komputer-NRP/5018241100
-|
-|-- README.md
-|-- Week02/
-| ‘-- W02_Engineering_Calculator_NRP.ipynb
-|-- Week03/
-|-- Week04/
-‘-- ...
+# Pemrograman-Komputer-5018241100  
+Nama : Arrya Niam Syidada
+NRP : 5018241100
+Kelas : A
+
+## Repository
+repository ini digunakan untuk pengumpulan tugas mata kuliah pemrograman komputer 
+
+## Assignment
+- week 02 - variables,data types and oprators
+- week 03 - conditional statements
+- week 04 - loops
