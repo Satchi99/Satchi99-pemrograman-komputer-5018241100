@@ -1,12 +1,8 @@
-# Pemrograman-Komputer-5018241100  
+# Pemrograman Komputer
 Nama : Arrya Niam Syidada
 NRP : 5018241100
-Kelas : A
-
+Kelas : Pemrograman Komputer A
 ## Repository
-repository ini digunakan untuk pengumpulan tugas mata kuliah pemrograman komputer 
-
-## Assignment
-- Week 02 - Variables, Data Types, and Operators
-- Week 03 - Conditional Statements
-- Week 04 - Loops
+Repository ini digunakan untuk pengumpulan tugas
+mata kuliah Pemrograman Komputer.
+## Assignment- Week 02- Variables, Data Types, and Operators- Week 03- Conditional Statements- Week 04- Loop
