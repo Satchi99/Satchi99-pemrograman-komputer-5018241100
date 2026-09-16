@@ -1,5 +1,5 @@
 # Satchi99-pemrograman-komputer-5018241100
-pemrograman-komputer-NRP/
+pemrograman-komputer-NRP/5018241100
 |
 |-- README.md
 |-- Week02/
