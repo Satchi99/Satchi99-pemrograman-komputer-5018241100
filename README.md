@@ -7,6 +7,6 @@ Kelas : A
 repository ini digunakan untuk pengumpulan tugas mata kuliah pemrograman komputer 
 
 ## Assignment
-- week 02 - variables,data types and oprators
-- week 03 - conditional statements
-- week 04 - loops
+- Week 02 - Variables, Data Types, and Operators
+- Week 03 - Conditional Statements
+- Week 04 - Loops
